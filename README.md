@@ -1,6 +1,6 @@
 # Group 5B — Knowledge Graph Entity Classification
 
-**Course:** KASDAD — Universitas Indonesia, Fourth Semester  
+**Course:** IAIDS Even 2025/2026 — Universitas Indonesia
 **Dataset:** Wikidata5m
 
 ---
