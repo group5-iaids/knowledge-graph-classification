@@ -1,0 +1,37 @@
+# Wikidata5m raw dumps (several GB each — download separately)
+wikidata5m_all_triplet.txt
+wikidata5m_entity.txt
+wikidata5m_relation.txt
+wikidata5m_*.txt
+wikidata5m_*.gz
+wikidata5m_*.tar.gz
+
+# Data files
+data/raw/*.txt
+data/raw/*.gz
+data/raw/*.tar.gz
+data/raw/*.tsv
+*.tar.gz
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
